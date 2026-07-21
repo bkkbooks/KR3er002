@@ -17,7 +17,7 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3er002_000-jc.yaml, hash: 'sha256:8917dd82dd2c9efb8c6ac4abc05fac24710b45c9cdc966cbee1eb7439ab6006a'}
+  - {seq: 0, filename: KR3er002_000-jc.yaml, hash: 'sha256:262c9738935d2e03de20f88fa4e8094ecf4b2f9d87e9379911c2bb10788ea003'}
   - {seq: 1, filename: KR3er002_001-jc.yaml, hash: 'sha256:5c9cfd761042d06b11dbfee21d90a7a50a4d17776d16c5f29efd4853755579c9'}
   - {seq: 2, filename: KR3er002_002-jc.yaml, hash: 'sha256:5b94eae6ac4b214b313bb16c2eb4b80469d758949ebb9d6f915159f715667e26'}
   - {seq: 3, filename: KR3er002_003-jc.yaml, hash: 'sha256:9073e6c0afc944f7e9a8c706b453b504ca5ed6c26c80309298df83ec16b02b34'}
@@ -69,7 +69,7 @@ assets:
   - {seq: 49, filename: KR3er002_049-jc.yaml, hash: 'sha256:972086d77f442cf6587859ebe1dede396a98f03cb97527335b2ab6266b0b9791'}
   - {seq: 50, filename: KR3er002_050-jc.yaml, hash: 'sha256:5c964b1585b6978391504e756ab36b49473162f640b03e9be3043ed5a99df491'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er002_000-jc.markers.yaml, hash: 'sha256:1595142a306ffd8c815138654f2236d05fe42e48260ee8c2ee1420cdb07e216f'}
+  - {seq: 0, role: markers, filename: assets/KR3er002_000-jc.markers.yaml, hash: 'sha256:3fc62b093fcf0e07cff97f6b08b5efbcee2dba0d7e5a04e540ce5e43b1520487'}
   - {seq: 1, role: markers, filename: assets/KR3er002_001-jc.markers.yaml, hash: 'sha256:9f7225da6d35f3e5a7924845db9f4ad7398fa0c1b606276cfa082d3c4c4a500c'}
   - {seq: 2, role: markers, filename: assets/KR3er002_002-jc.markers.yaml, hash: 'sha256:5a382e558220ced6aafc71a4c7836e121c67b85a8ff1d32f91066d25c580eea6'}
   - {seq: 3, role: markers, filename: assets/KR3er002_003-jc.markers.yaml, hash: 'sha256:cd687820370ebb7f99176243a5a84c43a3823c65930e7329fe3dcbf7db70f7b5'}
@@ -125,7 +125,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er002_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 613
   label: 序
@@ -18881,4 +18881,4 @@ table_of_contents:
   label: 二百五十五陰腫成瘡候
   type: section
   level: 3
-hash: sha256:054725896151012c9970912206884bbfeabc94e0347d7b119b025f0db00987dc
+hash: sha256:d83270e68dbff78d796fdf32e9116254fd1bdffdd7f69f9465005e6732813f59
